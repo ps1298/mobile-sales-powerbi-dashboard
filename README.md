@@ -6,7 +6,7 @@ An interactive Power BI dashboard analyzing mobile phone sales performance acros
 
 ## 🖼️ Dashboard Preview
 
-![Mobile Sales Dashboard](dashboard-screenshot.png)
+![Mobile Sales Dashboard](Mobile-Sales-Dashboard.png)
 
 > *Add your dashboard screenshot image to this repository and name it `dashboard-screenshot.png`*
 
